@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.pp{
+   text-decoration: underline;
+}
+body{
+    /* background-color: rgb(88, 4, 4); */
+}
+header{
+    width: 100%;
+    float: left;
+    background-color: #87509c;
+    /* padding: 10px; */
+    /* border: 2px solid maroon; */
+    /* margin: 5px; */
+}
+}
+#container{
+    width: 100%;
+    margin: auto;
+}
+nav{
+    width: 100%;
+    float: left;
+    margin: 0 10px;
+    padding: 5%;
+}
+#logo-part{
+    width: 50%;
+    float: left;
+    /* padding: 7%; */
+    /* margin: 5px 0 5px 0; */
+    /* text-align: center; */
+}
+#menu-part{
+    width: 50%;
+    float: left;
+    padding: 10px;
+    text-align: right;
+    text-transform: uppercase;
+}
+#menu-part li{
+    list-style: none;
+    display: inline-block;
+    color: #ffffff;
+    margin: 10px;
+}
+#hero-part{
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: #ffffff;
+    margin: 5% auto;
+    padding: 0 17%;
+}
+button{
+    /* border: 2px solid rgb(48, 9, 223); */
+    margin: 20px 0 30px 0;
+    padding: 10px 20px;
+    background-color: #eb7d4b;
+    box-shadow: 0 2px 5px #ee5007;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#service{
+    background-color: #07ebc3;
+    width: 100%;
+    float: left;
+}
+
+.writting-part{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 50px;
+    margin: 0 auto;
+    
+}
+.box-part{
+    width: 100%;
+    float: left;
+    /* text-align: center; */
+    margin: 5%;
+
+}
+.box-1{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.team{
+    width: 100%;
+    float: left;
+    background-color:#e7f1f8;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+
+/* section3 skill */
+  .skill{width: 100%;
+    float: left;
+    background-color: #ffffff;
+    text-align: center;
+  
+}
+.skill-writting-part{
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin: 10%;
+}
+.skill-box-part{
+    width: 100%;
+    float: left;
+}
+.skill-box{
+    width: 25%;
+    float: left;
+}
+
+
+.fortfolio{width: 100%;
+    float: left;
+    background-color:#ffdd99;
+    text-align: center;
+}
+#writting{
+    width: 100%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+#picture1{
+    width: 100%;
+    float: left;
+}
+#picture{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.form1{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 5%;
+}
+/* .pp{
+    background-color: #ee5007;
+    padding: 20px;
+    margin:0 33%;
+    border-radius: 10px;
+} */
+.pp input{
+    background-color: #17c2a4;
+    padding: 20px;
+    margin:0 33%;
+    border-radius: 10px;
+    color: #ffffff;
+}
+.pp input:hover{
+    /* background-color:#09f0c5; */
+    box-shadow: 0 0 2px 2px #025747;
+    cursor: pointer;
+    transition: 0.5s;
+}
+  
